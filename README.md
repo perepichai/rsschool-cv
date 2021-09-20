@@ -1,1 +1,1 @@
-https://perepichai.github.io/rsschool-cv/cv
+https://perepichai.github.io/rsschool-cv/
