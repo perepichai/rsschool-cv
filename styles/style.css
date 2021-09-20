@@ -1,12 +1,16 @@
+p, li {
+    color: #505050;
+}
 main, footer {
     margin: 0 auto;
     width: 50vw;
+    padding: 32px;
+    background-color:#f0f7fb;
 }
 
 footer {
-    margin: 60px auto 0;
     width: 50vw;
-    padding: 20px 0;
+    border-top: solid 2px #d8d8d8;
 }
 main title {
     text-align: center;
